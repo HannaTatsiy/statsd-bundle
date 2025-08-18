@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "name": "atatsiy/statsd-bundle",
-  "description": "Provides configured MetricsStorage to send metrics to graphite",
+  "description": "Provides configured MetricsStorage to send metrics to graphite.",
   "type": "symfony-bundle",
   "license": "MIT",
   "require": {
