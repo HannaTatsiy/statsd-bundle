@@ -1,0 +1,9 @@
+services:
+  StatsdBundle\Storage\MetricsStorage:
+    class: StatsdBundle\Storage\MetricsStorage
+    arguments:
+      - graphite
+      - 0000
+      - example
+
+  StatsdBundle\Storage\MetricsStorageInterface: '@StatsdBundle\Storage\MetricsStorage'
