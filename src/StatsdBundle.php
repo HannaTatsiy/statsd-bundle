@@ -1,8 +1,8 @@
 <?php
 
-namespace src;
+namespace StatsdBundle;
 
-use src\Storage\MetricsStorage;
+use StatsdBundle\Storage\MetricsStorage;
 use Symfony\Component\Config\Definition\Configurator\DefinitionConfigurator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigurator;

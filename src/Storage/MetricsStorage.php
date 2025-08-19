@@ -1,6 +1,6 @@
 <?php
 
-namespace src\Storage;
+namespace StatsdBundle\Storage;
 
 use Domnikl\Statsd\Client;
 use Domnikl\Statsd\Connection\UdpSocket;
