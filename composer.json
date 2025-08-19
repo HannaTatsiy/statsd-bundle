@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "StatsdBundle\\": "StatsdBundle/"
+      "StatsdBundle\\": "src/"
     }
   }
 }

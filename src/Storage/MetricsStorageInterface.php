@@ -1,6 +1,6 @@
 <?php
 
-namespace StatsdBundle\Storage;
+namespace src\Storage;
 
 interface MetricsStorageInterface
 {
