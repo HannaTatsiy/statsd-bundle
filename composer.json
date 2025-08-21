@@ -1,5 +1,5 @@
 {
-  "name": "hanna-tatsiy/statsd-bundle",
+  "name": "HannaTatsiy/statsd-bundle",
   "description": "Provides configured MetricsStorage to send metrics to graphite.",
   "type": "symfony-bundle",
   "license": "MIT",
